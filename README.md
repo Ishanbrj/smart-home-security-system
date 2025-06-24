@@ -8,6 +8,6 @@ Example:
 Run the following Python script to start the face recognition system:
 
 ```python
-python face_recognition.py
+face detection.py
 
 url = 'http://192.168.38.158/cam-hi.jpg'
